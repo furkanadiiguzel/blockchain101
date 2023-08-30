@@ -137,6 +137,7 @@ func main() {
 		{"Bob", "Ali", 0.8},
 		{"Charlie", "Mevlüt", 0.3},
 		{"Furkan", "Semih", 0.5},
+		{"Furkan", "Adıgüzel", 12},
 	}
 
 	rand.Seed(time.Now().UnixNano())
